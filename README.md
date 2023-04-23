@@ -10,7 +10,7 @@ We tend to supply everything connected with these media files. All formats, sour
 * Promo images (Sources, PNGs, SVGs...)
 
 # License:
-Copyright 2023 Danila Kononov (nickname: moony).
+Copyright 2023 Danila Kononov (nickname: moony).<br>
 Copyright 2023 Steam Trading Utils.
 
 All rights reserved.
